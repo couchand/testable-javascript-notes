@@ -39,6 +39,12 @@ Maintenance
    * tests lose value as documentation
    * be critical of your assertions
 
+Testing Stochastic Processes
+----------------------------
 
+ * Good luck!
+ * Remove the source of randomness
+ * Deterministically test the parts you can
+ * Fuzz test the integration
 
 
