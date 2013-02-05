@@ -177,5 +177,5 @@ Parking Lot
  * UnderscoreJS
  * Ringmark - mobile testing
  * CommonJS
-
+ * Jeff Atwood - The Infinite Version - <http://www.codinghorror.com>
 
