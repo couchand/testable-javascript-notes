@@ -5,6 +5,7 @@ February 4 &amp; 5, 2013
 
 Andrew Couch
 
+<http://training.bocoup.com/writing-testable-javascript/>
 
 Warning
 -------
